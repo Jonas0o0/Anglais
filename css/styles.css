@@ -133,7 +133,18 @@ section.speetch{
     background-color: rgb(7, 92, 42);
     padding: 50px;
     color: rgb(255, 251, 251);
+    font-family: 'Roboto', sans-serif;
+}
 
+section.speetch h1{
+    text-align: center;
+}
+
+section.speetch div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
 }
 
 /*/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////*/
